@@ -176,6 +176,34 @@ textarea {
 	 padding: 5px;
 
 }
+
+.populer{}
+.populer h3 {
+	font-size: 20px;
+	font-weight: normal;
+	border-bottom: 2px dashed #D56484;
+	margin-bottom: 10px;
+	padding-bottom: 2px;
+
+}
+.populer img {
+	width: 75px;
+	height: 65px;
+	background: #fff;
+	padding: 2px;
+	border: 1px solid #FA81A9;
+	border-radius: 30px;
+	float: left;
+	margin-right: 8px;
+}
+.populer h3 a {
+	text-decoration: none;
+	color: #900C3F
+}
+.populer p {
+	background-color: #4DEE8F;
+	text-align: justify;
+}
 .foteersection {
 	background-color: #900C3F ;
 	height: 72px;
