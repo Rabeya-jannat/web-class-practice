@@ -103,11 +103,26 @@ textarea {
 	border: 2px solid #667171;
 	width: 300px;
 }
-.about p{    font-size: 19px;
+.about p{    font-size: 16px;
     line-height: 21px;
     text-align: justify;
     margin-bottom: 15px;
 }
+.relatedpost{}
+.relatedpost h2{
+	background-color: #900C3F;
+	
+	color: white !important;
+	text-align: center;
+	border-bottom: 3px solid black !important;
+}
+
+.relatedpost img {
+	width: 187px;
+	height: 107px;
+	margin-bottom: 10px;
+}
+.relatedpost img:hover{opacity: 0.6;}
 
 .samepost h2,.about h2{
 	margin-bottom: 10px;
